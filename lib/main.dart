@@ -176,7 +176,7 @@ class ShuffleButton extends SpriteComponent with Tappable {
   bool onTapDown(TapDownInfo info) {
     try {
       moveTimInSecs = 0.6;
-      playBoard.shuffle(500);
+      playBoard.shuffle(1500);
       return true;
     } catch (error) {
       // print(error);
