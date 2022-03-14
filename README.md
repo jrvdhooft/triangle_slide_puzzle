@@ -1,5 +1,5 @@
-# triangle_slide_puzzle
+# triangle_slide_puzzle, in the triangle_slide_puzzle.zip is a executable for windows.
 
-Trangle slide puzzle
+
 
 
